@@ -1,4 +1,6 @@
-Optimal Reciprocal Collision Avoidance
+# Origin introduction
+
+## Optimal Reciprocal Collision Avoidance
 ======================================
 
 <http://gamma.cs.unc.edu/RVO2/>
@@ -20,13 +22,11 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Please send all bug reports to [geom@cs.unc.edu](mailto:geom@cs.unc.edu).
 
-The authors may be contacted via:
 
-Jur van den Berg, Stephen J. Guy, Jamie Snape, Ming C. Lin, and Dinesh Manocha  
-Dept. of Computer Science  
-201 S. Columbia St.  
-Frederick P. Brooks, Jr. Computer Science Bldg.  
-Chapel Hill, N.C. 27599-3175  
-United States of America
+# RVO2
+
+- 修改API接口，友好
+- 把参数提取出来，可以动态调控
+- 修改原有动力模型的小bug
+
